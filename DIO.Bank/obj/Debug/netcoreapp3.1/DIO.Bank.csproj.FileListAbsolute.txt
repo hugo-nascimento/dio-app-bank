@@ -1,0 +1,13 @@
+C:\Users\hugo-\OneDrive - MIS CSU\Código Fonte - Aplicações em C#\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.exe
+C:\Users\hugo-\OneDrive - MIS CSU\Código Fonte - Aplicações em C#\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.deps.json
+C:\Users\hugo-\OneDrive - MIS CSU\Código Fonte - Aplicações em C#\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.json
+C:\Users\hugo-\OneDrive - MIS CSU\Código Fonte - Aplicações em C#\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.dev.json
+C:\Users\hugo-\OneDrive - MIS CSU\Código Fonte - Aplicações em C#\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\hugo-\OneDrive - MIS CSU\Código Fonte - Aplicações em C#\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\hugo-\OneDrive - MIS CSU\Código Fonte - Aplicações em C#\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csprojAssemblyReference.cache
+C:\Users\hugo-\OneDrive - MIS CSU\Código Fonte - Aplicações em C#\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\hugo-\OneDrive - MIS CSU\Código Fonte - Aplicações em C#\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+C:\Users\hugo-\OneDrive - MIS CSU\Código Fonte - Aplicações em C#\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\hugo-\OneDrive - MIS CSU\Código Fonte - Aplicações em C#\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\hugo-\OneDrive - MIS CSU\Código Fonte - Aplicações em C#\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\hugo-\OneDrive - MIS CSU\Código Fonte - Aplicações em C#\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
